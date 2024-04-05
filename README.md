@@ -15,6 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=razan0r&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=razan0r&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=razan&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
